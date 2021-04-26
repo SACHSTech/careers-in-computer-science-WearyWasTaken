@@ -146,3 +146,5 @@ We’re looking for a programmer with experience leading a team of developers, s
 Additional Skills
 
 Experience with multiplayer servers
+
+![alt text](https://github.com/SACHSTech/careers-in-computer-science-WearyWasTaken/blob/main/Pictures/game_developer.jpg "Test Picture")
