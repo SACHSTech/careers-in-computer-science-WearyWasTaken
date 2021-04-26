@@ -7,9 +7,9 @@
 
 ![alt text](https://github.com/SACHSTech/careers-in-computer-science-WearyWasTaken/blob/main/Pictures/game_developer.jpg)
 
- A [video game developer](https://www.cgspectrum.com/blog/what-is-game-programming) writes code and works with other artists to create games
+ A [video game developer](https://www.cgspectrum.com/blog/what-is-game-programming) writes code and works with other artists to create games.
 
-Had an [average salary](https://www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary) of $58,882 over the last year
+Had an [average salary](https://www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary) of $58,882 over the last year in Canada, with a range of $40,000 - $91,000.
 
 ### [Responsibilities](https://www.cgspectrum.com/blog/what-is-game-programming)
 
