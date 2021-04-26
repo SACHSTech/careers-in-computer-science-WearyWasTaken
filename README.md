@@ -41,6 +41,8 @@ A bachelor's degree in Software Engineering or Computer Science
 
 ## A Path to Get there
 
+![alt text](https://github.com/SACHSTech/careers-in-computer-science-WearyWasTaken/blob/main/Pictures/u%20ottawa.png)
+
 University name: University of Ottawa
 
 Related Program: Bachelors of Computer Science
