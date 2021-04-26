@@ -25,7 +25,7 @@ Had an [average salary](https://www.payscale.com/research/CA/Job=Video_Game_Prog
 A bachelor's degree in Software Engineering or Computer Science
 
 ### Skills
-
+ 
 #### Technical
 
 * Experience with languages like C, C++, and Java
