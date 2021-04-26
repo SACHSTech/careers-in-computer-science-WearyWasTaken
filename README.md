@@ -5,6 +5,8 @@
 
 ### What is a video game developer?
 
+![alt text](https://github.com/SACHSTech/careers-in-computer-science-WearyWasTaken/blob/main/Pictures/game_developer.jpg)
+
  A [video game developer](https://www.cgspectrum.com/blog/what-is-game-programming) writes code and works with other artists to create games
 
 Had an [average salary](https://www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary) of $58,882 over the last year
@@ -146,5 +148,3 @@ We’re looking for a programmer with experience leading a team of developers, s
 Additional Skills
 
 Experience with multiplayer servers
-
-![alt text](https://github.com/SACHSTech/careers-in-computer-science-WearyWasTaken/blob/main/Pictures/game_developer.jpg "Test Picture")
