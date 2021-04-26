@@ -92,3 +92,27 @@ Time Required for completion
 2. We require an Unreal Engine Developer to join our client company in Toronto, which is a growing programming team. The right candidate will have a strong grasp of blueprints and C++ development. We also require good working knowledge & understanding of Unreal Engine 4, including the asset import pipeline. Extra knowledge of shaders & material experience is a plus.
 
 3. We’re looking for a programmer with experience leading a team of developers, setting standards, creating estimates and establishing realistic scope, with experience working on commercially shipped games, who is self-directed and excels at collaborating across disciplines. The ideal candidate will have a passion for building compelling VR games & experiences.
+
+# Works Cited
+
+“7 UOttawa Researchers among the Most Cited in the World.” Media, media.uottawa.ca/news/7-uottawa-researchers-among-most-cited-world. Accessed 26 Apr. 2021.
+
+“Academic Regulation 8 - Courses.” Administration and Governance - University of Ottawa, www.uottawa.ca/administration-and-governance/academic-regulation-8-courses. Accessed 26 Apr. 2021.
+
+“BSc with Honours in Computer Science | 2020-2021 Course Sequence.” Engineering, engineering.uottawa.ca/undergraduate-programs/courses/computer-science-2020. Accessed 26 Apr. 2021.
+
+“Building CS Skills and Experience | Computer Science at UBC.” Www.cs.ubc.ca, www.cs.ubc.ca/students/undergrad/careers/finding-career-opportunities/finding-summer-jobs-and-internships/building. Accessed 26 Apr. 2021.
+
+“Computer Science.” Engineering, engineering.uottawa.ca/undergraduate-programs/computer-science. Accessed 26 Apr. 2021.
+
+“Major in Computer Science < UOttawa.” Catalogue.uottawa.ca, catalogue.uottawa.ca/en/undergrad/major-computer-science/. Accessed 26 Apr. 2021.Stefyn, Nadia. 
+
+“What Is Game Programming and How to Become a Game Programmer.” Www.cgspectrum.com, www.cgspectrum.com/blog/what-is-game-programming.
+
+“Top 0 Game Developer Jobs in Richmond Hill%2C on (with Salaries!).” Workopolis, www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=Richmond+Hill%2C+ON&job=fLicNhRYASndxOPTRJ8iL-xy6tyW4DNTJ4sS5qgHt22Nd7U-_K0ToA. Accessed 26 Apr. 2021.
+
+“Video Game Developer Job Description.” Betterteam, www.betterteam.com/video-game-developer-job-description.
+
+“Video Game Programmer Salary in Canada | PayScale.” Www.payscale.com, www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary.
+
+“What Does a Video Game Designer Do and How to One.” Career Test: Free Tests & Quiz for Students and Adults, 18 June 2017, www.yourfreecareertest.com/video-game-designer/.
