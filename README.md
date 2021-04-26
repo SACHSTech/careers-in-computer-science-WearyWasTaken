@@ -64,3 +64,11 @@ Related Program: Bachelors of Computer Science
 Time Required for completion
 
 [60 Units](https://catalogue.uottawa.ca/en/undergrad/major-computer-science/) or [2700 Hours](https://www.uottawa.ca/administration-and-governance/academic-regulation-8-courses)
+
+### [Progress Outside School](https://www.cs.ubc.ca/students/undergrad/careers/finding-career-opportunities/finding-summer-jobs-and-internships/building)
+
+* Try solving diffcult computer science questions from competition sites
+* Take short term jobs
+* Work on personal projects
+* Participate in hackathons and game jams
+* Learn new languages outside school
